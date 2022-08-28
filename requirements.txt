@@ -1,0 +1,11 @@
+ipython==8.4.0
+Jinja2==2.11.3
+keras==2.9.0
+matplotlib==3.5.1
+numpy==1.21.5
+pandas==1.4.2
+protobuf==4.21.5
+pycaret==2.3.10
+scikit_learn==1.1.2
+seaborn==0.11.2
+tensorflow==2.9.1
